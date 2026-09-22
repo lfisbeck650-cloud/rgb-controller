@@ -1,3 +1,4 @@
 *.o
 rgb-controller
 dist/
+dist/
